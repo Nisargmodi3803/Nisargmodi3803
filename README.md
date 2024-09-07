@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisarg Modi</h1> <h3 align="center">4th Year B.Tech IT Student | Full Stack Developer | Backend Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargmodi3803&label=Profile%20views&color=0e75b6&style=flat" alt="nisargmodi3803" /> </p>
-🔭 I’m a Full Stack Developer with a strong interest in backend development.
-🌱 Currently diving deep into Machine Learning and Deep Learning.
+🔭 I’m a Full Stack Developer with a strong interest in backend development.<br>
+🌱 Currently diving deep into Machine Learning and Deep Learning.<br>
 📫 You can reach me at nisargmodi03@gmail.com.
 <h3 align="left">💡 Random Quote:</h3> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random quote" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/nisarg-modi-b7b8a8222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://instagram.com/i_nisarg._003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> </p> <h3 align="left">Tech Stack:</h3>
 🖥️ Languages
