@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisarg Modi</h1> <h3 align="center">4th Year B.Tech IT Student | Full Stack Developer | Backend Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargmodi3803&label=Profile%20views&color=0e75b6&style=flat" alt="nisargmodi3803" /> </p>
+<h1 align="center">Hi 👋, I'm Nisarg Modi</h1> <h3 align="center">B.Tech IT DDU | Full Stack Developer | Backend Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisargmodi3803&label=Profile%20views&color=0e75b6&style=flat" alt="nisargmodi3803" /> </p>
 🔭 I’m a Full Stack Developer with a strong interest in backend development.<br>
 🌱 Currently diving deep into Machine Learning and Deep Learning.<br>
 📫 You can reach me at nisargmodi03@gmail.com.
